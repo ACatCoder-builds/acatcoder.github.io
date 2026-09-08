@@ -1,1 +1,0 @@
-window.SIDEBAR_ITEMS = {"fn":["chunk","color_percentages","main","run"],"struct":["Args"]};
